@@ -11,7 +11,7 @@ Joke Malware.
    <img src="https://img.shields.io/badge/Language%3A-Python-blue" alt="Language.">
 </p>
 
-## О проэкте.
+## О проекте.
 
 Aleg.exe появился только из-за одной картинки, в котором был Alezha.exe, так, кстати, и будет называтся вирус в будущем.
 - Aleg.exe на данный момент в бета версии.
