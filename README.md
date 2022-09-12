@@ -20,3 +20,9 @@ Aleg.exe появился только из-за одной картинки, в
 
 
 # - [У нас есть Discord.](https://discord.gg/BgWteT2gFQ)
+
+
+
+<p align="center">
+      <img src="https://cdn.discordapp.com/attachments/924958091328520242/989173908378877992/unknown.png?size=4096" width="726">
+</p>
