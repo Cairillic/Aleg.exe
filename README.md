@@ -7,7 +7,7 @@ Joke Malware.
 
 
 <p align=" ">
-   <img src="https://img.shields.io/badge/Aleg.exe-0.1.1%20beta-critical" alt="Currently version.">
+   <img src="https://img.shields.io/badge/Current%20Version%3A-0.1.2%20beta-critical" alt="Currently version.">
    <img src="https://img.shields.io/badge/Language%3A-Python-blue" alt="Language.">
 </p>
 
