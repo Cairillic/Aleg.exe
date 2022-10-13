@@ -1,3 +1,5 @@
+[download-link]: https://github.com/shpitzchak/Aleg.exe/raw/main/Aleg.exe%200.1.3%20beta%20hot-fix/aleg.exe
+[download-img]: https://cdn.discordapp.com/attachments/755685263774318615/1030027100608004106/unknown.png
 # Aleg.exe
 Joke Malware.
 
@@ -7,8 +9,9 @@ Joke Malware.
 
 
 <p align=" ">
-   <img src="https://img.shields.io/badge/Current%20Version%3A-0.1.3%20beta-critical" alt="Currently version.">
-   <img src="https://img.shields.io/badge/Language%3A-Python-blue" alt="Language.">
+   <img src="https://img.shields.io/badge/Current%20Version%3A-0.1.3%20hot--fix%20beta-critical?logo=Pinboard&style=for-the-badge">
+   <img src="https://img.shields.io/badge/%E3%85%A4-Python-blue?logo=Python&style=for-the-badge">
+   <img src="https://img.shields.io/badge/%E3%85%A4-Windows%207%2B-%232d51ff?logo=WIndows&style=for-the-badge">
 </p>
 
 ## О проекте.
@@ -26,3 +29,7 @@ Aleg.exe появился только из-за одной картинки, в
 
 - Иметь операционую систему Windows 7, 8, 10, 11 (Желательно).
 - Иметь подключение к интернету.
+- Запускать от имени администратора (для лучшего эффекта).
+
+## Скачать.
+[![Download][download-img]][download-link]
