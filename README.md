@@ -1,4 +1,4 @@
-[download-link]: https://github.com/shpitzchak/Aleg.exe/raw/main/Aleg.exe%20Version%200.1.4%20beta/Aleg.exe
+[download-link]: https://github.com/shpitzchak/Aleg.exe/raw/main/Aleg.exe%20Version%200.1.5.zip
 [download-img]: https://cdn.discordapp.com/attachments/755685263774318615/1030027100608004106/unknown.png
 # Aleg.exe
 Joke Malware.
