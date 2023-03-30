@@ -9,7 +9,7 @@ Joke Malware.
 
 
 <p align=" ">
-   <img src="https://img.shields.io/badge/Current%20Version%3A-0.1.4%20beta-critical?logo=Pinboard&style=for-the-badge">
+   <img src="https://img.shields.io/badge/Current%20Version%3A-0.1.5%20beta-critical?logo=Pinboard&style=for-the-badge">
    <img src="https://img.shields.io/badge/%E3%85%A4-Python-blue?logo=Python&style=for-the-badge">
    <img src="https://img.shields.io/badge/%E3%85%A4-Windows%208%2B-%232d51ff?logo=WIndows&style=for-the-badge">
 </p>
